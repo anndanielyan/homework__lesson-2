@@ -1,0 +1,15 @@
+{
+  "name": "homework__lesson-2",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "auth.js",
+  "scripts": {
+    "start": "node auth.js"
+  },
+  "author": "Anna Danielyan",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "lodash": "^4.17.21"
+  }
+}
